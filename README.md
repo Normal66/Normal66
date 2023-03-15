@@ -1,6 +1,7 @@
 ### Hi there 👋
+-
+I'm __Constantin__, a self-taught __Prolog__ enthusiast from 🇷🇺 Yekaterinburg, Russia.
 
-I'm Constantin, a self-taught Prolog enthusiast from 🇷🇺 Yekaterinburg, Russia.
 <!--
 **Normal66/Normal66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
