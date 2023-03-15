@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Constantin, a self-taught Prolog enthusiast from Yekaterinburg, Russia.
+I'm Constantin, a self-taught Prolog enthusiast from !(https://atuin.ru/demo/flag-icon-css-master/flags/4x3/ru.svg) Yekaterinburg, Russia.
 <!--
 **Normal66/Normal66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
